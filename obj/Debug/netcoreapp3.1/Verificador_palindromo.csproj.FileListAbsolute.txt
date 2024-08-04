@@ -1,0 +1,13 @@
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\obj\Debug\netcoreapp3.1\Verificador_palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\obj\Debug\netcoreapp3.1\Verificador_palindromo.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\obj\Debug\netcoreapp3.1\Verificador_palindromo.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\obj\Debug\netcoreapp3.1\Verificador_palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\bin\Debug\netcoreapp3.1\Verificador_palindromo.exe
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\bin\Debug\netcoreapp3.1\Verificador_palindromo.deps.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\bin\Debug\netcoreapp3.1\Verificador_palindromo.runtimeconfig.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\bin\Debug\netcoreapp3.1\Verificador_palindromo.runtimeconfig.dev.json
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\bin\Debug\netcoreapp3.1\Verificador_palindromo.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\bin\Debug\netcoreapp3.1\Verificador_palindromo.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\obj\Debug\netcoreapp3.1\Verificador_palindromo.dll
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\obj\Debug\netcoreapp3.1\Verificador_palindromo.pdb
+C:\Users\Home\OneDrive\Documentos\Adriano\C#\Verificador_palindromo\Verificador_palindromo\obj\Debug\netcoreapp3.1\Verificador_palindromo.genruntimeconfig.cache
