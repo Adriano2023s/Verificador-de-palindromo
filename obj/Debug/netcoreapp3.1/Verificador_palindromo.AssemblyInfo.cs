@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Verificador_palindromo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5046c998c12fd29489e449f9c55c7fc090a2f7e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4787d139ada80520508605c53a991f2383534a4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Verificador_palindromo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Verificador_palindromo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
